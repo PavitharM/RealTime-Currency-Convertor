@@ -63,7 +63,7 @@ button{
     margin-bottom: 5px;
 }
 
-/* input{
+input{
     padding: 10px;
     border: 2px solid;
     border-radius: 10px;
@@ -72,6 +72,6 @@ button{
 
 input::placeholder{
     font-size: 1.2em;
-} */
+}
 
 
